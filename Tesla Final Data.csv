@@ -1,0 +1,551 @@
+TeslaModel,HomeChargerAvailable,Segment,ChargingFrequency,LocationPreference,PriceSensitivity,SpeedPreference,ChosenStationPrice,ChosenStationSpeed,ChosenStationLocation,ConjointPrice,ConjointSpeed,ConjointPerks,PlanType,UsageLimit,AdSpend,StationUsage,Revenue,CampaignType,FirstTimeUser,DiscountApplied,UserLocation
+Model 3,No,Urban Commuter,6,Supercharger - Highway,Medium,Fast,0.46,Fast,Urban,0.25,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,2616.67,24,110.4,Loyalty Program,No,No,Urban
+Model Y,Yes,Urban Commuter,1,Home,High,Moderate,0.27,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,4803.11,19,51.3,Loyalty Program,No,No,Suburban
+Model X,Yes,Urban Commuter,1,Home,Medium,Moderate,0.34,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,3950.17,23,78.2,None,Yes,Yes,Urban
+Model 3,Yes,Urban Commuter,3,Destination Charger,Low,Moderate,0.42,Fast,Highway,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4863.01,15,63,Loyalty Program,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Highway,Medium,Moderate,0.32,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,3858.14,11,35.2,Discount,No,No,Highway Region
+Model S,No,Urban Commuter,2,Supercharger - Urban,High,Fast,0.46,Fast,Highway,0.45,Fast,None,Unlimited Fast-Charging,Unlimited,1290.2,20,92,Loyalty Program,No,No,Urban
+Model S,Yes,Urban Commuter,1,Destination Charger,High,Fast,0.43,Fast,Highway,0.45,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,790.41,16,68.8,Referral,Yes,No,Rural
+Model Y,Yes,Urban Commuter,1,Supercharger - Highway,Low,Moderate,0.45,Fast,Highway,0.25,Fast,None,Pay-Per-Use,Unlimited,3099.48,18,81,Discount,No,No,Rural
+Model X,Yes,Long-Distance Traveler,3,Supercharger - Highway,Medium,Moderate,0.28,Fast,Urban,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,2110.16,15,42,Referral,No,No,Suburban
+Model X,No,Long-Distance Traveler,1,Supercharger - Urban,Medium,Fast,0.29,Fast,Urban,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1739.56,19,55.1,None,No,No,Urban
+Model S,Yes,Urban Commuter,3,Destination Charger,Medium,Fast,0.32,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,4132.45,25,80,Discount,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,3,Supercharger - Highway,Low,Fast,0.38,Fast,Urban,0.45,Fast,None,Monthly Subscription,Unlimited,2151.47,17,64.6,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,3,Supercharger - Highway,Medium,Moderate,0.44,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,1926.5,28,123.2,Discount,Yes,Yes,Urban
+Model 3,No,Long-Distance Traveler,1,Supercharger - Highway,High,Fast,0.46,Fast,Urban,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,4324.94,17,78.2,Discount,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Urban,Medium,Moderate,0.43,Fast,Highway,0.35,Fast,None,Pay-Per-Use,50 kWh/month,4308.29,28,120.4,Discount,No,No,Rural
+Model S,Yes,Long-Distance Traveler,2,Destination Charger,Low,Moderate,0.48,Fast,Highway,0.25,Fast,Lounge Access,Pay-Per-Use,Unlimited,2103.65,21,100.8,Referral,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Fast,0.43,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,4246.24,19,81.7,None,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Moderate,0.33,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4328.5,25,82.5,Discount,No,No,Rural
+Model 3,Yes,Urban Commuter,1,Destination Charger,High,Fast,0.32,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,2407.69,17,54.4,Loyalty Program,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Home,Medium,Moderate,0.42,Fast,Highway,0.25,Fast,None,Pay-Per-Use,Unlimited,799.13,17,71.4,Discount,No,No,Urban
+Model X,No,Long-Distance Traveler,2,Home,High,Fast,0.3,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,507.13,28,84,Discount,Yes,Yes,Highway Region
+Model S,Yes,Urban Commuter,3,Destination Charger,High,Moderate,0.27,Fast,Urban,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2854.82,24,64.8,None,No,No,Highway Region
+Model 3,Yes,Urban Commuter,3,Supercharger - Urban,Low,Moderate,0.38,Fast,Highway,0.35,Fast,App Navigation Integration,Monthly Subscription,Unlimited,2048.34,15,57,Loyalty Program,Yes,No,Suburban
+Model 3,No,Long-Distance Traveler,1,Home,High,Fast,0.46,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,4987.09,13,59.8,Loyalty Program,No,No,Suburban
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,High,Fast,0.28,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,3975.85,15,42,Referral,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,1,Home,Low,Fast,0.45,Fast,Destination,0.45,Fast,None,Monthly Subscription,Unlimited,3925.74,17,76.5,Loyalty Program,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Highway,High,Fast,0.45,Fast,Highway,0.25,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,4798.59,20,90,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,Low,Moderate,0.37,Fast,Destination,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,4494.76,28,103.6,Loyalty Program,No,No,Rural
+Model 3,No,Urban Commuter,6,Home,Medium,Fast,0.26,Fast,Destination,0.25,Fast,Lounge Access,Monthly Subscription,Unlimited,1931.84,28,72.8,Discount,Yes,Yes,Rural
+Model S,Yes,Urban Commuter,3,Supercharger - Urban,Low,Fast,0.29,Fast,Highway,0.45,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,1246.94,19,55.1,Referral,No,No,Rural
+Model X,No,Urban Commuter,4,Home,High,Moderate,0.43,Fast,Urban,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,3856.52,18,77.4,Loyalty Program,Yes,Yes,Rural
+Model S,Yes,Urban Commuter,1,Home,Low,Fast,0.43,Fast,Highway,0.25,Fast,None,Pay-Per-Use,50 kWh/month,2202.23,14,60.2,Loyalty Program,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,2,Home,High,Fast,0.47,Fast,Highway,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,2629.28,19,89.3,Loyalty Program,Yes,Yes,Highway Region
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.4,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,3336.79,18,72,Discount,Yes,No,Rural
+Model Y,Yes,Urban Commuter,2,Supercharger - Urban,Low,Fast,0.28,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4585.43,20,56,Discount,Yes,Yes,Rural
+Model Y,Yes,Long-Distance Traveler,1,Home,Medium,Fast,0.28,Fast,Urban,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,2385.89,22,61.6,Referral,No,No,Urban
+Model 3,No,Long-Distance Traveler,7,Supercharger - Urban,High,Fast,0.43,Fast,Destination,0.45,Fast,None,Monthly Subscription,Up to 200 kWh,4024.93,19,81.7,None,No,No,Urban
+Model S,Yes,Urban Commuter,1,Destination Charger,High,Fast,0.3,Fast,Highway,0.25,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,1707.53,20,60,Referral,No,No,Urban
+Model X,No,Long-Distance Traveler,6,Supercharger - Highway,Medium,Fast,0.33,Fast,Urban,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,3640.87,20,66,Discount,Yes,Yes,Suburban
+Model 3,Yes,Urban Commuter,2,Home,Low,Fast,0.37,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,507.11,23,85.1,Loyalty Program,No,No,Highway Region
+Model S,No,Long-Distance Traveler,3,Supercharger - Urban,Low,Moderate,0.26,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,4421.78,27,70.2,Loyalty Program,No,No,Highway Region
+Model 3,No,Urban Commuter,3,Supercharger - Urban,High,Fast,0.31,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,636.71,32,99.2,Referral,No,No,Urban
+Model S,No,Long-Distance Traveler,2,Destination Charger,Medium,Moderate,0.35,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,3707.39,19,66.5,Loyalty Program,No,No,Urban
+Model Y,No,Long-Distance Traveler,2,Home,Medium,Moderate,0.32,Fast,Highway,0.35,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,708.16,13,41.6,Discount,Yes,Yes,Highway Region
+Model 3,No,Urban Commuter,7,Supercharger - Highway,Low,Moderate,0.28,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,1698.11,17,47.6,Referral,No,No,Suburban
+Model X,Yes,Urban Commuter,2,Supercharger - Urban,Low,Moderate,0.43,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,2737.41,16,68.8,None,No,No,Urban
+Model 3,Yes,Urban Commuter,1,Home,Low,Fast,0.45,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,2389.72,20,90,Discount,Yes,No,Rural
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.31,Fast,Destination,0.35,Fast,None,Monthly Subscription,50 kWh/month,1363.26,19,58.9,Discount,No,No,Urban
+Model 3,No,Long-Distance Traveler,4,Supercharger - Urban,Low,Fast,0.44,Fast,Destination,0.35,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,2002.17,16,70.4,Loyalty Program,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Urban,Low,Moderate,0.35,Fast,Destination,0.25,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,3774.68,20,70,Discount,Yes,Yes,Highway Region
+Model Y,No,Urban Commuter,3,Supercharger - Highway,High,Fast,0.38,Fast,Urban,0.25,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,3511.66,16,60.8,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,Low,Fast,0.46,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Unlimited,823.17,19,87.4,None,No,No,Urban
+Model Y,Yes,Urban Commuter,3,Destination Charger,Low,Fast,0.44,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,3862.92,20,88,Loyalty Program,No,No,Rural
+Model Y,Yes,Urban Commuter,2,Home,Medium,Moderate,0.45,Fast,Highway,0.35,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,738.71,23,103.5,Discount,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,1,Home,Medium,Moderate,0.28,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,2943.17,22,61.6,Loyalty Program,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,High,Fast,0.27,Fast,Destination,0.25,Fast,None,Monthly Subscription,Unlimited,1670.28,14,37.8,Discount,No,No,Suburban
+Model S,Yes,Urban Commuter,2,Supercharger - Urban,Low,Moderate,0.47,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,3144.61,24,112.8,None,No,No,Rural
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,High,Moderate,0.35,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,1675.98,15,52.5,Loyalty Program,Yes,Yes,Suburban
+Model S,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.32,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,4932.31,21,67.2,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Moderate,0.43,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1893.78,14,60.2,None,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,Medium,Moderate,0.46,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,1588.82,17,78.2,Referral,No,No,Rural
+Model 3,No,Long-Distance Traveler,5,Supercharger - Highway,High,Fast,0.47,Fast,Urban,0.25,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,1753.09,17,79.9,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Moderate,0.33,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4534.13,19,62.7,Discount,No,No,Urban
+Model 3,Yes,Urban Commuter,3,Destination Charger,Low,Moderate,0.46,Fast,Urban,0.35,Fast,None,Pay-Per-Use,50 kWh/month,3362.98,20,92,Referral,Yes,Yes,Suburban
+Model 3,Yes,Urban Commuter,3,Supercharger - Urban,High,Moderate,0.26,Fast,Highway,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,3788.08,19,49.4,Loyalty Program,Yes,No,Urban
+Model 3,Yes,Urban Commuter,2,Home,Low,Moderate,0.26,Fast,Urban,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,4631.05,19,49.4,Loyalty Program,Yes,Yes,Highway Region
+Model S,Yes,Urban Commuter,3,Destination Charger,Low,Moderate,0.41,Fast,Destination,0.25,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,4603.43,20,82,None,No,No,Suburban
+Model Y,Yes,Urban Commuter,1,Destination Charger,Low,Moderate,0.27,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,3825.26,22,59.4,None,No,No,Highway Region
+Model S,Yes,Urban Commuter,3,Home,Low,Moderate,0.33,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1390.21,22,72.6,None,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,1,Destination Charger,High,Moderate,0.42,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,4295.18,28,117.6,Referral,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Urban,Medium,Fast,0.33,Fast,Destination,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,1416.99,22,72.6,Referral,No,No,Suburban
+Model S,No,Urban Commuter,6,Supercharger - Highway,Medium,Fast,0.29,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,3843.04,24,69.6,Loyalty Program,No,No,Highway Region
+Model S,No,Urban Commuter,2,Supercharger - Urban,Medium,Fast,0.32,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,3585.21,12,38.4,None,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,2,Home,High,Fast,0.36,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,3915,22,79.2,Loyalty Program,No,No,Highway Region
+Model X,Yes,Long-Distance Traveler,1,Home,Low,Moderate,0.37,Fast,Destination,0.25,Fast,None,Monthly Subscription,Up to 200 kWh,2897.09,18,66.6,Referral,No,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Fast,0.45,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,3374.27,17,76.5,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Fast,0.44,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,4789.94,25,110,Loyalty Program,No,No,Highway Region
+Model S,No,Urban Commuter,4,Supercharger - Urban,Low,Moderate,0.36,Fast,Destination,0.45,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,954.9,15,54,Referral,No,No,Rural
+Model 3,Yes,Urban Commuter,2,Home,Medium,Moderate,0.46,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Unlimited,1889.81,20,92,None,Yes,Yes,Urban
+Model S,Yes,Urban Commuter,2,Supercharger - Urban,Low,Moderate,0.28,Fast,Highway,0.45,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,3251.11,16,44.8,Discount,Yes,Yes,Rural
+Model Y,Yes,Urban Commuter,3,Home,Medium,Moderate,0.31,Fast,Urban,0.25,Fast,None,Unlimited Fast-Charging,50 kWh/month,4838.24,19,58.9,Discount,No,No,Highway Region
+Model X,No,Urban Commuter,7,Supercharger - Urban,Medium,Moderate,0.46,Fast,Highway,0.35,Fast,App Navigation Integration,Monthly Subscription,Unlimited,930.09,27,124.2,Discount,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Urban,Medium,Fast,0.34,Fast,Destination,0.35,Fast,None,Monthly Subscription,Unlimited,601.47,19,64.6,None,Yes,No,Rural
+Model S,Yes,Urban Commuter,1,Supercharger - Urban,Low,Moderate,0.5,Fast,Highway,0.35,Fast,None,Monthly Subscription,Unlimited,750.87,13,65,Discount,Yes,Yes,Highway Region
+Model 3,Yes,Long-Distance Traveler,2,Home,High,Fast,0.37,Fast,Highway,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,735.83,22,81.4,Referral,No,No,Rural
+Model 3,Yes,Urban Commuter,2,Destination Charger,Low,Fast,0.45,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,4585.17,24,108,Loyalty Program,No,No,Urban
+Model X,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Moderate,0.35,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,3745.66,28,98,Discount,Yes,Yes,Urban
+Model X,Yes,Urban Commuter,3,Home,Low,Fast,0.36,Fast,Urban,0.35,Fast,None,Monthly Subscription,50 kWh/month,3546.98,14,50.4,Discount,Yes,Yes,Urban
+Model Y,Yes,Urban Commuter,2,Home,High,Fast,0.35,Fast,Highway,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,2851.58,19,66.5,Referral,Yes,Yes,Highway Region
+Model 3,Yes,Urban Commuter,3,Supercharger - Urban,Low,Moderate,0.43,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,50 kWh/month,4018.79,19,81.7,None,Yes,Yes,Rural
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Urban,High,Fast,0.39,Fast,Highway,0.35,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,1200.42,16,62.4,Discount,No,No,Rural
+Model X,Yes,Long-Distance Traveler,3,Destination Charger,High,Fast,0.49,Fast,Highway,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2263.74,22,107.8,Referral,Yes,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,1,Home,Low,Fast,0.31,Fast,Highway,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,2705.02,12,37.2,Referral,No,No,Urban
+Model 3,Yes,Urban Commuter,3,Home,Medium,Moderate,0.28,Fast,Destination,0.35,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,996.84,26,72.8,None,No,No,Suburban
+Model Y,No,Urban Commuter,6,Supercharger - Highway,High,Moderate,0.35,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2387.81,17,59.5,None,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Home,Low,Moderate,0.4,Fast,Urban,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,1924.26,21,84,Loyalty Program,Yes,No,Suburban
+Model 3,Yes,Urban Commuter,3,Destination Charger,High,Fast,0.47,Fast,Destination,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,660.12,18,84.6,Discount,Yes,Yes,Urban
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,Medium,Moderate,0.34,Fast,Highway,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,1115.31,16,54.4,Loyalty Program,Yes,Yes,Highway Region
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Fast,0.41,Fast,Highway,0.45,Fast,None,Pay-Per-Use,Unlimited,3938.17,21,86.1,Referral,Yes,No,Suburban
+Model S,No,Urban Commuter,2,Supercharger - Highway,Low,Moderate,0.34,Fast,Urban,0.45,Fast,App Navigation Integration,Monthly Subscription,Unlimited,581.17,10,34,Discount,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Urban,Low,Fast,0.4,Fast,Destination,0.45,Fast,Lounge Access,Monthly Subscription,Unlimited,4704.14,24,96,Referral,Yes,Yes,Suburban
+Model X,No,Urban Commuter,4,Supercharger - Urban,Medium,Moderate,0.47,Fast,Highway,0.35,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,888.91,24,112.8,Referral,Yes,Yes,Rural
+Model 3,Yes,Long-Distance Traveler,2,Home,High,Moderate,0.31,Fast,Urban,0.35,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,4096.57,25,77.5,Referral,No,No,Suburban
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.35,Fast,Urban,0.45,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,4543.77,12,42,None,No,No,Suburban
+Model Y,No,Urban Commuter,6,Destination Charger,High,Moderate,0.5,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4735.11,27,135,None,Yes,No,Suburban
+Model 3,No,Long-Distance Traveler,5,Supercharger - Urban,High,Fast,0.47,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,4403.65,23,108.1,Discount,Yes,Yes,Rural
+Model 3,No,Urban Commuter,2,Destination Charger,Medium,Moderate,0.39,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,1793.98,20,78,Referral,Yes,Yes,Highway Region
+Model Y,No,Urban Commuter,6,Destination Charger,Low,Moderate,0.38,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,1998.89,15,57,Referral,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Urban,High,Fast,0.32,Fast,Highway,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,2419.46,18,57.6,Discount,No,No,Suburban
+Model S,No,Urban Commuter,7,Supercharger - Urban,Low,Fast,0.38,Fast,Urban,0.35,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,1126.84,23,87.4,Loyalty Program,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,Low,Fast,0.46,Fast,Destination,0.45,Fast,None,Monthly Subscription,Up to 200 kWh,600.23,18,82.8,Referral,No,No,Rural
+Model S,No,Urban Commuter,2,Supercharger - Urban,Medium,Moderate,0.42,Fast,Highway,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4411.05,17,71.4,None,No,No,Urban
+Model Y,Yes,Urban Commuter,1,Supercharger - Highway,Low,Fast,0.32,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,2993.58,16,51.2,Loyalty Program,Yes,Yes,Rural
+Model Y,No,Urban Commuter,7,Supercharger - Highway,Low,Moderate,0.3,Fast,Urban,0.25,Fast,None,Pay-Per-Use,50 kWh/month,3239.25,21,63,Loyalty Program,No,No,Rural
+Model X,Yes,Urban Commuter,2,Supercharger - Highway,High,Fast,0.32,Fast,Destination,0.25,Fast,None,Monthly Subscription,Unlimited,4671.45,17,54.4,Loyalty Program,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,Medium,Fast,0.29,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,3493.04,19,55.1,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Urban Commuter,2,Home,Low,Fast,0.27,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,3608.84,23,62.1,Loyalty Program,No,No,Highway Region
+Model S,No,Long-Distance Traveler,1,Supercharger - Highway,High,Fast,0.35,Fast,Destination,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,4041.36,25,87.5,Loyalty Program,No,No,Suburban
+Model Y,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Fast,0.28,Fast,Urban,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,1023.57,32,89.6,Discount,No,No,Rural
+Model 3,Yes,Urban Commuter,3,Destination Charger,Medium,Fast,0.29,Fast,Highway,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,2120.73,23,66.7,Discount,Yes,Yes,Highway Region
+Model Y,Yes,Urban Commuter,3,Supercharger - Highway,High,Moderate,0.39,Fast,Urban,0.45,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,4856.94,17,66.3,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Urban Commuter,2,Home,High,Fast,0.29,Fast,Urban,0.45,Fast,None,Pay-Per-Use,Unlimited,4653.19,21,60.9,None,Yes,No,Highway Region
+Model 3,No,Long-Distance Traveler,2,Supercharger - Urban,High,Moderate,0.27,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,4478.34,24,64.8,Discount,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,3,Destination Charger,High,Fast,0.33,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2534.4,21,69.3,Discount,Yes,Yes,Urban
+Model 3,No,Long-Distance Traveler,4,Destination Charger,High,Fast,0.31,Fast,Highway,0.35,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,4357.37,19,58.9,Loyalty Program,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Highway,Low,Fast,0.38,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,717.78,19,72.2,None,No,No,Urban
+Model Y,Yes,Urban Commuter,3,Destination Charger,Low,Moderate,0.28,Fast,Urban,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1168.33,18,50.4,Loyalty Program,No,No,Urban
+Model Y,No,Long-Distance Traveler,4,Supercharger - Highway,Medium,Moderate,0.44,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,2362.85,27,118.8,None,No,No,Urban
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Fast,0.48,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,2675.26,21,100.8,None,No,No,Highway Region
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,Low,Moderate,0.44,Fast,Highway,0.35,Fast,None,Monthly Subscription,Up to 200 kWh,1685.78,24,105.6,Referral,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,Low,Fast,0.38,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,2104.15,14,53.2,Discount,Yes,No,Rural
+Model 3,No,Urban Commuter,2,Home,High,Fast,0.47,Fast,Destination,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1232.49,30,141,Loyalty Program,No,No,Highway Region
+Model S,Yes,Urban Commuter,3,Supercharger - Urban,Medium,Moderate,0.42,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,2701.1,27,113.4,Discount,Yes,Yes,Suburban
+Model 3,No,Long-Distance Traveler,5,Supercharger - Urban,Medium,Moderate,0.25,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,4072.29,21,52.5,Discount,Yes,Yes,Rural
+Model Y,No,Long-Distance Traveler,5,Supercharger - Highway,Medium,Moderate,0.35,Fast,Highway,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,3476.12,20,70,None,Yes,Yes,Highway Region
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,Medium,Moderate,0.46,Fast,Urban,0.25,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,985.07,16,73.6,Discount,No,No,Rural
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.34,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,2694.12,22,74.8,Referral,No,No,Rural
+Model X,Yes,Urban Commuter,3,Supercharger - Highway,Low,Moderate,0.26,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,3639.41,24,62.4,Loyalty Program,Yes,No,Urban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Urban,High,Moderate,0.44,Fast,Destination,0.35,Fast,None,Monthly Subscription,Unlimited,2884.53,18,79.2,Discount,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,3,Home,Medium,Fast,0.45,Fast,Highway,0.45,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,2262.54,22,99,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Urban Commuter,2,Home,Low,Moderate,0.29,Fast,Highway,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,3298.61,25,72.5,Discount,No,No,Urban
+Model 3,Yes,Urban Commuter,2,Destination Charger,Low,Moderate,0.38,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4858.87,16,60.8,Loyalty Program,No,No,Highway Region
+Model 3,No,Long-Distance Traveler,2,Destination Charger,High,Moderate,0.3,Fast,Highway,0.25,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,927.09,25,75,Loyalty Program,Yes,Yes,Urban
+Model 3,No,Urban Commuter,2,Supercharger - Urban,High,Moderate,0.43,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,50 kWh/month,2255.07,13,55.9,Loyalty Program,No,No,Highway Region
+Model 3,No,Urban Commuter,5,Home,High,Fast,0.32,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,2329.73,20,64,Discount,Yes,Yes,Urban
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Highway,Low,Fast,0.33,Fast,Destination,0.35,Fast,None,Pay-Per-Use,Up to 200 kWh,3096.35,28,92.4,Referral,No,No,Urban
+Model X,Yes,Urban Commuter,1,Destination Charger,Low,Moderate,0.46,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,1184.79,18,82.8,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Moderate,0.37,Fast,Urban,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,1294.89,19,70.3,None,No,No,Highway Region
+Model S,No,Urban Commuter,7,Destination Charger,Medium,Fast,0.42,Fast,Highway,0.35,Fast,None,Unlimited Fast-Charging,Unlimited,1784.13,23,96.6,None,Yes,No,Rural
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,High,Moderate,0.35,Fast,Highway,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,4801.42,24,84,None,Yes,Yes,Urban
+Model Y,No,Long-Distance Traveler,2,Home,High,Moderate,0.32,Fast,Highway,0.35,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,3803.49,26,83.2,Referral,Yes,Yes,Highway Region
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,High,Moderate,0.41,Fast,Urban,0.45,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,3477.62,18,73.8,Loyalty Program,No,No,Urban
+Model S,Yes,Urban Commuter,1,Home,High,Moderate,0.29,Fast,Destination,0.35,Fast,None,Monthly Subscription,Up to 200 kWh,4176.31,21,60.9,Referral,Yes,Yes,Suburban
+Model 3,No,Long-Distance Traveler,7,Supercharger - Highway,Low,Moderate,0.34,Fast,Highway,0.35,Fast,None,Unlimited Fast-Charging,50 kWh/month,1074.09,17,57.8,Loyalty Program,No,No,Suburban
+Model Y,Yes,Urban Commuter,3,Supercharger - Urban,Medium,Moderate,0.3,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Unlimited,4367,21,63,Referral,Yes,Yes,Suburban
+Model 3,No,Urban Commuter,4,Home,High,Moderate,0.42,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,3176.75,28,117.6,Loyalty Program,No,No,Suburban
+Model X,No,Long-Distance Traveler,5,Supercharger - Urban,Medium,Moderate,0.49,Fast,Urban,0.45,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,2008.98,25,122.5,None,Yes,No,Rural
+Model Y,Yes,Urban Commuter,1,Home,Medium,Moderate,0.5,Fast,Urban,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,4171.35,18,90,Loyalty Program,Yes,No,Rural
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,Medium,Fast,0.36,Fast,Destination,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,4111.54,21,75.6,Referral,No,No,Urban
+Model X,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Fast,0.31,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,4305.69,21,65.1,Loyalty Program,No,No,Highway Region
+Model 3,No,Long-Distance Traveler,5,Supercharger - Urban,Low,Fast,0.36,Fast,Highway,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1019.83,19,68.4,Discount,No,No,Suburban
+Model X,Yes,Urban Commuter,2,Supercharger - Highway,High,Moderate,0.46,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4862.13,21,96.6,Loyalty Program,Yes,Yes,Suburban
+Model X,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.3,Fast,Urban,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,4818.32,20,60,None,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,2,Home,Medium,Fast,0.49,Fast,Urban,0.35,Fast,None,Monthly Subscription,50 kWh/month,2108.61,18,88.2,Loyalty Program,No,No,Rural
+Model S,No,Long-Distance Traveler,5,Supercharger - Highway,Low,Moderate,0.34,Fast,Urban,0.25,Fast,None,Monthly Subscription,50 kWh/month,796.52,20,68,Discount,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,1,Destination Charger,High,Fast,0.5,Fast,Urban,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,1251.75,25,125,Discount,No,No,Highway Region
+Model 3,No,Urban Commuter,6,Supercharger - Urban,Medium,Moderate,0.46,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,4967.74,23,105.8,Discount,No,No,Urban
+Model S,No,Urban Commuter,6,Destination Charger,Low,Fast,0.45,Fast,Urban,0.35,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,3033.56,16,72,Referral,Yes,Yes,Urban
+Model S,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Fast,0.33,Fast,Highway,0.45,Fast,None,Unlimited Fast-Charging,Unlimited,2104.8,23,75.9,Discount,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Urban,Low,Fast,0.25,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,1796.91,27,67.5,Referral,No,No,Urban
+Model X,No,Long-Distance Traveler,5,Home,Low,Moderate,0.35,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,1656.46,28,98,Discount,Yes,Yes,Highway Region
+Model S,Yes,Long-Distance Traveler,2,Home,High,Fast,0.33,Fast,Highway,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,3488.69,29,95.7,Referral,No,No,Highway Region
+Model 3,No,Long-Distance Traveler,7,Destination Charger,Medium,Moderate,0.26,Fast,Highway,0.45,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,2387.25,23,59.8,Discount,Yes,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,3,Home,High,Moderate,0.38,Fast,Destination,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,4844.35,20,76,Discount,No,No,Rural
+Model X,Yes,Long-Distance Traveler,2,Home,Medium,Moderate,0.35,Fast,Urban,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3577.29,22,77,Loyalty Program,No,No,Suburban
+Model S,No,Long-Distance Traveler,1,Home,High,Moderate,0.41,Fast,Urban,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,4064.2,21,86.1,Discount,Yes,Yes,Highway Region
+Model X,Yes,Urban Commuter,2,Destination Charger,Medium,Moderate,0.41,Fast,Urban,0.25,Fast,None,Monthly Subscription,Unlimited,1817.34,32,131.2,Loyalty Program,Yes,No,Urban
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,High,Moderate,0.28,Fast,Urban,0.45,Fast,None,Pay-Per-Use,50 kWh/month,856.34,21,58.8,Discount,Yes,Yes,Highway Region
+Model Y,Yes,Long-Distance Traveler,1,Home,Low,Moderate,0.49,Fast,Destination,0.45,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,2695.2,17,83.3,Discount,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,2,Home,Medium,Fast,0.3,Fast,Highway,0.25,Fast,None,Monthly Subscription,Up to 200 kWh,1915.62,16,48,Loyalty Program,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Fast,0.36,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,1409.37,31,111.6,Loyalty Program,Yes,No,Urban
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.37,Fast,Urban,0.35,Fast,None,Pay-Per-Use,50 kWh/month,4786.89,17,62.9,Referral,Yes,Yes,Rural
+Model Y,No,Urban Commuter,6,Home,High,Moderate,0.45,Fast,Urban,0.45,Fast,Lounge Access,Monthly Subscription,50 kWh/month,2497.95,26,117,None,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Urban,Medium,Moderate,0.27,Fast,Urban,0.35,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,1286.19,17,45.9,Loyalty Program,Yes,Yes,Urban
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.36,Fast,Destination,0.35,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,1393.93,20,72,Referral,No,No,Urban
+Model X,Yes,Urban Commuter,1,Home,High,Moderate,0.41,Fast,Destination,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1763.19,18,73.8,Discount,No,No,Highway Region
+Model Y,No,Urban Commuter,5,Home,Low,Fast,0.3,Fast,Highway,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,4996.92,26,78,Loyalty Program,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,High,Moderate,0.41,Fast,Urban,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,1706.05,19,77.9,Loyalty Program,No,No,Suburban
+Model 3,No,Urban Commuter,7,Supercharger - Urban,High,Fast,0.48,Fast,Urban,0.25,Fast,None,Pay-Per-Use,Unlimited,1979.61,14,67.2,Discount,No,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,High,Moderate,0.5,Fast,Urban,0.25,Fast,None,Monthly Subscription,Unlimited,3466.98,27,135,Discount,No,No,Highway Region
+Model S,Yes,Urban Commuter,2,Destination Charger,Medium,Fast,0.26,Fast,Urban,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1822.83,23,59.8,Discount,No,No,Highway Region
+Model Y,Yes,Urban Commuter,3,Supercharger - Urban,Low,Moderate,0.31,Fast,Destination,0.35,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,1471.12,21,65.1,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,Low,Fast,0.33,Fast,Highway,0.45,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,1213.87,19,62.7,None,Yes,No,Suburban
+Model X,Yes,Urban Commuter,3,Supercharger - Urban,High,Moderate,0.35,Fast,Highway,0.35,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,1907.07,26,91,Loyalty Program,Yes,No,Urban
+Model 3,Yes,Urban Commuter,1,Home,Medium,Fast,0.31,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,976.62,13,40.3,Discount,Yes,Yes,Highway Region
+Model 3,No,Urban Commuter,2,Supercharger - Urban,High,Moderate,0.3,Fast,Urban,0.35,Fast,None,Unlimited Fast-Charging,50 kWh/month,583.91,14,42,Discount,No,No,Suburban
+Model X,Yes,Long-Distance Traveler,2,Supercharger - Urban,Medium,Fast,0.49,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4120.89,22,107.8,None,No,No,Highway Region
+Model Y,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.48,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,1120.53,17,81.6,Loyalty Program,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Supercharger - Urban,Medium,Moderate,0.26,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,3991.9,23,59.8,Referral,No,No,Urban
+Model Y,No,Long-Distance Traveler,7,Supercharger - Urban,Medium,Fast,0.33,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4088.94,19,62.7,Loyalty Program,No,No,Highway Region
+Model X,Yes,Urban Commuter,3,Supercharger - Highway,Low,Moderate,0.35,Fast,Highway,0.45,Fast,App Navigation Integration,Monthly Subscription,Unlimited,2920.64,22,77,Referral,Yes,No,Suburban
+Model S,Yes,Urban Commuter,1,Destination Charger,Medium,Moderate,0.31,Fast,Urban,0.35,Fast,None,Pay-Per-Use,50 kWh/month,1893.57,13,40.3,None,No,No,Urban
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,Medium,Moderate,0.41,Fast,Highway,0.35,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,1152.65,17,69.7,Discount,Yes,Yes,Highway Region
+Model Y,No,Urban Commuter,3,Home,High,Fast,0.41,Fast,Destination,0.45,Fast,None,Unlimited Fast-Charging,50 kWh/month,3815.62,32,131.2,None,Yes,No,Rural
+Model X,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Fast,0.46,Fast,Urban,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3206.24,17,78.2,Loyalty Program,No,No,Highway Region
+Model S,Yes,Urban Commuter,1,Home,Low,Moderate,0.44,Fast,Destination,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,3449.54,17,74.8,Discount,No,No,Highway Region
+Model S,No,Urban Commuter,1,Destination Charger,High,Moderate,0.39,Fast,Highway,0.25,Fast,Nearby Amenities,Monthly Subscription,Unlimited,539.01,21,81.9,Loyalty Program,No,No,Suburban
+Model X,No,Urban Commuter,3,Supercharger - Highway,Medium,Fast,0.41,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4673.83,19,77.9,Referral,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Fast,0.32,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,798.31,20,64,Loyalty Program,No,No,Rural
+Model S,No,Urban Commuter,2,Destination Charger,Low,Fast,0.4,Fast,Destination,0.25,Fast,None,Pay-Per-Use,Unlimited,2150.63,20,80,None,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Home,High,Moderate,0.37,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,2312.2,22,81.4,None,No,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Moderate,0.28,Fast,Urban,0.35,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,506.1,21,58.8,None,No,No,Urban
+Model X,Yes,Long-Distance Traveler,3,Home,Low,Moderate,0.31,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,2736.9,16,49.6,Discount,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,Low,Moderate,0.32,Fast,Urban,0.45,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,3887.64,31,99.2,Loyalty Program,No,No,Suburban
+Model X,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Moderate,0.48,Fast,Highway,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4204.71,22,105.6,Discount,No,No,Highway Region
+Model 3,No,Urban Commuter,6,Supercharger - Highway,High,Fast,0.31,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,4457.29,26,80.6,Loyalty Program,Yes,No,Rural
+Model 3,Yes,Urban Commuter,2,Destination Charger,Medium,Moderate,0.32,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,2694.73,25,80,Referral,No,No,Rural
+Model X,Yes,Urban Commuter,1,Destination Charger,High,Fast,0.34,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,3337.86,22,74.8,Loyalty Program,No,No,Suburban
+Model X,Yes,Long-Distance Traveler,3,Home,High,Fast,0.42,Fast,Destination,0.25,Fast,None,Monthly Subscription,Up to 200 kWh,857.84,16,67.2,Loyalty Program,Yes,Yes,Rural
+Model Y,No,Long-Distance Traveler,7,Supercharger - Highway,Medium,Moderate,0.28,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,2696.17,19,53.2,Loyalty Program,No,No,Highway Region
+Model X,Yes,Urban Commuter,1,Home,High,Fast,0.49,Fast,Destination,0.45,Fast,App Navigation Integration,Monthly Subscription,Unlimited,1196.67,20,98,Loyalty Program,Yes,Yes,Rural
+Model 3,Yes,Urban Commuter,1,Home,High,Moderate,0.47,Fast,Destination,0.35,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,2163.39,25,117.5,Referral,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Urban,High,Fast,0.39,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1981.87,11,42.9,Discount,Yes,Yes,Highway Region
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,Low,Moderate,0.42,Fast,Highway,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2405.93,17,71.4,None,No,No,Rural
+Model 3,No,Urban Commuter,5,Destination Charger,Medium,Moderate,0.25,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3072.36,26,65,Loyalty Program,No,No,Suburban
+Model 3,No,Urban Commuter,2,Home,Low,Fast,0.33,Fast,Urban,0.25,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4562.94,26,85.8,None,No,No,Urban
+Model Y,Yes,Urban Commuter,2,Destination Charger,Medium,Moderate,0.45,Fast,Urban,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2275.18,25,112.5,None,No,No,Suburban
+Model 3,No,Urban Commuter,5,Supercharger - Highway,Medium,Fast,0.27,Fast,Highway,0.25,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4915.09,15,40.5,None,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Home,High,Moderate,0.32,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,3915.63,20,64,None,Yes,Yes,Suburban
+Model X,No,Urban Commuter,4,Home,Medium,Moderate,0.4,Fast,Urban,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,2801.66,20,80,Loyalty Program,Yes,Yes,Highway Region
+Model Y,Yes,Urban Commuter,1,Supercharger - Highway,Low,Moderate,0.31,Fast,Destination,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,3398.12,18,55.8,None,No,No,Highway Region
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.48,Fast,Destination,0.35,Fast,None,Monthly Subscription,Unlimited,960.01,14,67.2,Loyalty Program,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,Low,Fast,0.28,Fast,Urban,0.45,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,4300.35,19,53.2,Referral,Yes,No,Urban
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.45,Fast,Urban,0.35,Fast,Nearby Amenities,Monthly Subscription,Unlimited,3120.61,19,85.5,Discount,Yes,Yes,Urban
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Fast,0.38,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,4937.3,26,98.8,Discount,Yes,Yes,Rural
+Model X,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.44,Fast,Urban,0.45,Fast,None,Monthly Subscription,Up to 200 kWh,3363.93,20,88,Loyalty Program,No,No,Suburban
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,Low,Fast,0.33,Fast,Destination,0.35,Fast,None,Monthly Subscription,50 kWh/month,4253.5,26,85.8,Loyalty Program,Yes,No,Rural
+Model S,No,Long-Distance Traveler,4,Home,Low,Fast,0.38,Fast,Urban,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,4098.93,23,87.4,Discount,Yes,Yes,Suburban
+Model X,Yes,Urban Commuter,3,Home,Medium,Moderate,0.46,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,2054.58,19,87.4,None,No,No,Rural
+Model S,Yes,Urban Commuter,3,Supercharger - Urban,Low,Moderate,0.37,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,1668.25,19,70.3,Loyalty Program,No,No,Urban
+Model Y,No,Long-Distance Traveler,3,Home,High,Moderate,0.34,Fast,Destination,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,2437.22,18,61.2,None,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,Medium,Moderate,0.38,Fast,Destination,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,2602.59,13,49.4,Loyalty Program,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.43,Fast,Destination,0.35,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,1580.38,19,81.7,Loyalty Program,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Urban,Medium,Fast,0.36,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,4525.69,22,79.2,Referral,No,No,Urban
+Model S,No,Long-Distance Traveler,1,Destination Charger,High,Fast,0.48,Fast,Highway,0.35,Fast,None,Unlimited Fast-Charging,Unlimited,2941.47,19,91.2,Referral,No,No,Urban
+Model Y,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Moderate,0.32,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,4903,16,51.2,Discount,Yes,Yes,Urban
+Model 3,Yes,Long-Distance Traveler,1,Home,Low,Moderate,0.37,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4145.08,21,77.7,Referral,No,No,Highway Region
+Model Y,No,Long-Distance Traveler,1,Supercharger - Urban,Low,Moderate,0.44,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,3000.67,25,110,Referral,No,No,Rural
+Model Y,No,Long-Distance Traveler,3,Supercharger - Highway,Low,Fast,0.42,Fast,Highway,0.25,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4761.68,22,92.4,Discount,Yes,Yes,Rural
+Model Y,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Moderate,0.47,Fast,Destination,0.45,Fast,App Navigation Integration,Monthly Subscription,Unlimited,2771.94,20,94,None,No,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Urban,Low,Moderate,0.5,Fast,Urban,0.25,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4491.98,25,125,Referral,Yes,Yes,Urban
+Model 3,Yes,Urban Commuter,3,Home,Medium,Fast,0.36,Fast,Urban,0.45,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,2111.65,20,72,None,No,No,Rural
+Model Y,No,Long-Distance Traveler,2,Supercharger - Highway,Low,Fast,0.28,Fast,Destination,0.35,Fast,App Navigation Integration,Monthly Subscription,Unlimited,2203.89,23,64.4,Discount,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,High,Fast,0.26,Fast,Urban,0.35,Fast,None,Monthly Subscription,Unlimited,2381.59,17,44.2,Loyalty Program,Yes,No,Rural
+Model S,Yes,Urban Commuter,1,Supercharger - Urban,High,Fast,0.43,Fast,Urban,0.35,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,2959.82,22,94.6,None,No,No,Suburban
+Model 3,No,Long-Distance Traveler,1,Supercharger - Urban,High,Moderate,0.47,Fast,Destination,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,2990.71,22,103.4,Discount,No,No,Highway Region
+Model Y,Yes,Urban Commuter,1,Destination Charger,High,Fast,0.31,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2733.8,19,58.9,None,No,No,Suburban
+Model X,Yes,Urban Commuter,3,Supercharger - Highway,Medium,Fast,0.29,Fast,Highway,0.45,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1877,18,52.2,Discount,No,No,Suburban
+Model 3,Yes,Urban Commuter,3,Supercharger - Urban,Low,Moderate,0.27,Fast,Destination,0.45,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4672.43,22,59.4,Discount,Yes,Yes,Highway Region
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Moderate,0.46,Fast,Highway,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,3148.64,33,151.8,Loyalty Program,No,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Supercharger - Urban,Medium,Moderate,0.33,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,2334.83,18,59.4,None,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Fast,0.35,Fast,Urban,0.45,Fast,None,Unlimited Fast-Charging,50 kWh/month,3430.3,17,59.5,Loyalty Program,Yes,No,Rural
+Model S,Yes,Urban Commuter,1,Supercharger - Highway,High,Moderate,0.38,Fast,Destination,0.35,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,3955.85,18,68.4,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,2,Destination Charger,Medium,Fast,0.46,Fast,Urban,0.45,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4823.28,20,92,None,No,No,Rural
+Model Y,No,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.41,Fast,Destination,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2747.97,23,94.3,None,No,No,Urban
+Model X,Yes,Long-Distance Traveler,3,Supercharger - Highway,Low,Fast,0.4,Fast,Destination,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,1004.44,22,88,Discount,Yes,No,Urban
+Model X,No,Urban Commuter,2,Home,Low,Moderate,0.29,Fast,Destination,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,2483.45,27,78.3,None,No,No,Urban
+Model X,Yes,Urban Commuter,2,Destination Charger,High,Fast,0.38,Fast,Destination,0.35,Fast,None,Unlimited Fast-Charging,50 kWh/month,2655.37,16,60.8,Discount,No,No,Highway Region
+Model 3,No,Urban Commuter,6,Supercharger - Urban,High,Moderate,0.43,Fast,Destination,0.35,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,4536.47,17,73.1,Discount,No,No,Urban
+Model 3,No,Long-Distance Traveler,4,Supercharger - Highway,Low,Moderate,0.49,Fast,Highway,0.25,Fast,None,Pay-Per-Use,Unlimited,2276.6,28,137.2,Discount,Yes,Yes,Suburban
+Model Y,Yes,Urban Commuter,1,Supercharger - Urban,Low,Moderate,0.3,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4789.96,18,54,Discount,No,No,Rural
+Model Y,No,Urban Commuter,5,Supercharger - Urban,Medium,Fast,0.25,Fast,Highway,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,2683.09,21,52.5,Discount,No,No,Rural
+Model Y,No,Urban Commuter,2,Home,Low,Fast,0.27,Fast,Urban,0.25,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4882.01,23,62.1,Discount,Yes,Yes,Rural
+Model Y,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.34,Fast,Destination,0.45,Fast,None,Monthly Subscription,50 kWh/month,536.89,24,81.6,None,No,No,Rural
+Model 3,Yes,Urban Commuter,3,Destination Charger,High,Moderate,0.46,Fast,Urban,0.25,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4544.67,23,105.8,None,No,No,Suburban
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.25,Fast,Destination,0.35,Fast,App Navigation Integration,Monthly Subscription,Unlimited,4690.04,22,55,Referral,Yes,Yes,Rural
+Model Y,No,Long-Distance Traveler,4,Supercharger - Urban,High,Fast,0.36,Fast,Highway,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,4824.59,21,75.6,None,Yes,Yes,Suburban
+Model X,No,Long-Distance Traveler,2,Destination Charger,Low,Fast,0.33,Fast,Highway,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,558.84,21,69.3,Loyalty Program,No,No,Suburban
+Model X,No,Urban Commuter,7,Supercharger - Highway,Medium,Fast,0.26,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,1272.65,16,41.6,Referral,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Urban,Low,Fast,0.36,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,3441.94,24,86.4,None,No,No,Rural
+Model Y,No,Long-Distance Traveler,7,Supercharger - Urban,Low,Moderate,0.31,Fast,Destination,0.35,Fast,None,Pay-Per-Use,50 kWh/month,614.63,18,55.8,Loyalty Program,Yes,Yes,Rural
+Model 3,Yes,Urban Commuter,2,Home,Low,Moderate,0.34,Fast,Urban,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,786.24,23,78.2,None,No,No,Suburban
+Model 3,Yes,Urban Commuter,1,Home,High,Moderate,0.43,Fast,Highway,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,1494.85,10,43,Discount,No,No,Highway Region
+Model S,Yes,Urban Commuter,1,Home,Medium,Moderate,0.38,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,2805.98,22,83.6,Referral,Yes,Yes,Suburban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,Low,Fast,0.28,Fast,Highway,0.35,Fast,None,Monthly Subscription,50 kWh/month,2956.56,15,42,Discount,No,No,Highway Region
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,High,Moderate,0.49,Fast,Highway,0.35,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,654.18,29,142.1,Referral,Yes,Yes,Rural
+Model 3,Yes,Long-Distance Traveler,2,Home,Medium,Fast,0.41,Fast,Highway,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,1266.65,21,86.1,Referral,No,No,Suburban
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,High,Moderate,0.44,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,2748.68,24,105.6,Discount,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,2,Home,High,Moderate,0.27,Fast,Destination,0.25,Fast,None,Monthly Subscription,50 kWh/month,3172.73,24,64.8,Referral,No,No,Highway Region
+Model 3,Yes,Urban Commuter,2,Destination Charger,Medium,Moderate,0.26,Fast,Highway,0.35,Fast,None,Pay-Per-Use,Unlimited,1167.81,19,49.4,Referral,Yes,Yes,Highway Region
+Model S,Yes,Urban Commuter,2,Destination Charger,Low,Fast,0.25,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,2294.79,35,87.5,None,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,3,Home,High,Fast,0.3,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,Unlimited,4569.81,25,75,Loyalty Program,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Moderate,0.35,Fast,Destination,0.25,Fast,App Navigation Integration,Monthly Subscription,Unlimited,4995.05,21,73.5,Discount,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Home,Low,Fast,0.48,Fast,Highway,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4942.47,21,100.8,None,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,3,Home,Low,Moderate,0.36,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,4467.54,18,64.8,None,Yes,Yes,Urban
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Urban,Medium,Moderate,0.32,Fast,Highway,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2275.97,17,54.4,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Moderate,0.39,Fast,Urban,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3589.58,19,74.1,Referral,No,No,Rural
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.28,Fast,Destination,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,2374.67,16,44.8,Discount,No,No,Highway Region
+Model X,Yes,Long-Distance Traveler,2,Home,Low,Moderate,0.4,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3418.37,20,80,Loyalty Program,No,No,Highway Region
+Model S,No,Urban Commuter,6,Supercharger - Urban,High,Moderate,0.39,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,1892.45,16,62.4,Loyalty Program,No,No,Rural
+Model S,Yes,Urban Commuter,2,Home,High,Moderate,0.45,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,3227.91,24,108,Discount,Yes,Yes,Rural
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,Medium,Fast,0.5,Fast,Urban,0.35,Fast,None,Pay-Per-Use,Unlimited,2856.91,17,85,None,No,No,Rural
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,Low,Moderate,0.31,Fast,Urban,0.45,Fast,None,Pay-Per-Use,50 kWh/month,610.16,22,68.2,Discount,No,No,Urban
+Model X,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Fast,0.38,Fast,Highway,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,4058.16,15,57,Loyalty Program,No,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Moderate,0.48,Fast,Destination,0.35,Fast,None,Monthly Subscription,50 kWh/month,553.54,21,100.8,Discount,No,No,Highway Region
+Model Y,Yes,Urban Commuter,3,Supercharger - Urban,High,Fast,0.45,Fast,Destination,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,1819.2,24,108,Referral,No,No,Rural
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,High,Moderate,0.37,Fast,Urban,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,526.66,18,66.6,Discount,Yes,Yes,Suburban
+Model 3,Yes,Long-Distance Traveler,1,Destination Charger,Low,Moderate,0.49,Fast,Destination,0.35,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,2192.91,18,88.2,None,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,2,Destination Charger,Low,Fast,0.26,Fast,Urban,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,784.22,24,62.4,Referral,No,No,Highway Region
+Model 3,No,Urban Commuter,2,Supercharger - Urban,High,Fast,0.48,Fast,Destination,0.25,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,4610.8,15,72,Loyalty Program,No,No,Highway Region
+Model 3,No,Urban Commuter,3,Destination Charger,Medium,Moderate,0.26,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,2370.56,21,54.6,Discount,Yes,Yes,Urban
+Model S,No,Urban Commuter,4,Supercharger - Highway,Low,Fast,0.39,Fast,Urban,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,2567.73,10,39,None,Yes,Yes,Urban
+Model S,No,Urban Commuter,2,Home,High,Moderate,0.47,Fast,Destination,0.35,Fast,None,Monthly Subscription,Unlimited,2074.33,24,112.8,None,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Moderate,0.32,Fast,Highway,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,3323.78,25,80,Loyalty Program,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,2,Destination Charger,Low,Moderate,0.37,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,4029.84,19,70.3,Discount,No,No,Highway Region
+Model X,Yes,Long-Distance Traveler,3,Supercharger - Urban,Low,Fast,0.33,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,3416.66,14,46.2,None,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Moderate,0.49,Fast,Highway,0.45,Fast,None,Unlimited Fast-Charging,Unlimited,3866.93,21,102.9,Referral,No,No,Suburban
+Model S,No,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.46,Fast,Destination,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,4576.88,20,92,Discount,Yes,Yes,Highway Region
+Model S,Yes,Urban Commuter,3,Supercharger - Urban,Medium,Moderate,0.43,Fast,Destination,0.45,Fast,Lounge Access,Monthly Subscription,50 kWh/month,4385.96,25,107.5,Loyalty Program,No,No,Urban
+Model 3,No,Long-Distance Traveler,5,Destination Charger,Medium,Fast,0.4,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,3533.26,19,76,Referral,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Fast,0.46,Fast,Highway,0.45,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1465.87,22,101.2,Discount,No,No,Rural
+Model X,No,Long-Distance Traveler,1,Supercharger - Urban,High,Moderate,0.35,Fast,Highway,0.35,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,3369.66,19,66.5,None,No,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Home,Low,Fast,0.36,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,2777.37,19,68.4,Loyalty Program,No,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,1,Home,Medium,Moderate,0.43,Fast,Highway,0.45,Fast,None,Monthly Subscription,50 kWh/month,3727.49,21,90.3,Loyalty Program,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,2,Destination Charger,Medium,Moderate,0.34,Fast,Urban,0.25,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,4248.19,12,40.8,Discount,Yes,Yes,Urban
+Model X,Yes,Long-Distance Traveler,2,Supercharger - Urban,High,Moderate,0.27,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,3842.25,15,40.5,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,2,Destination Charger,Low,Moderate,0.27,Fast,Urban,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,4309.53,18,48.6,Referral,Yes,Yes,Highway Region
+Model X,Yes,Long-Distance Traveler,1,Supercharger - Highway,Medium,Moderate,0.28,Fast,Highway,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,787.4,22,61.6,Discount,No,No,Suburban
+Model 3,No,Urban Commuter,7,Home,High,Fast,0.47,Fast,Highway,0.45,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,642.29,17,79.9,Referral,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Highway,Low,Moderate,0.37,Fast,Highway,0.45,Fast,None,Unlimited Fast-Charging,Unlimited,1663.25,23,85.1,Loyalty Program,No,No,Suburban
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,Low,Fast,0.43,Fast,Destination,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,4553,17,73.1,Loyalty Program,No,No,Urban
+Model Y,Yes,Urban Commuter,1,Destination Charger,Medium,Fast,0.35,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,4206.47,23,80.5,Loyalty Program,No,No,Highway Region
+Model S,No,Long-Distance Traveler,4,Destination Charger,Medium,Moderate,0.31,Fast,Highway,0.25,Fast,Lounge Access,Pay-Per-Use,Unlimited,3572.27,18,55.8,Referral,No,No,Rural
+Model S,Yes,Long-Distance Traveler,1,Destination Charger,Low,Fast,0.34,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,3653.41,22,74.8,Loyalty Program,Yes,Yes,Suburban
+Model S,Yes,Urban Commuter,2,Supercharger - Highway,Low,Moderate,0.45,Fast,Urban,0.45,Fast,None,Unlimited Fast-Charging,Unlimited,3770.02,18,81,Discount,No,No,Suburban
+Model S,Yes,Urban Commuter,2,Home,Medium,Fast,0.41,Fast,Highway,0.45,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,4741.71,28,114.8,None,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,Low,Fast,0.48,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,4244.86,18,86.4,Discount,No,No,Urban
+Model X,Yes,Urban Commuter,2,Supercharger - Highway,Medium,Fast,0.42,Fast,Urban,0.45,Fast,None,Monthly Subscription,Unlimited,3305.26,17,71.4,None,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Urban,Low,Moderate,0.39,Fast,Destination,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,3495.72,10,39,Loyalty Program,Yes,Yes,Suburban
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Urban,Medium,Fast,0.4,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,1461.83,21,84,Discount,Yes,No,Urban
+Model 3,No,Long-Distance Traveler,6,Supercharger - Urban,High,Moderate,0.49,Fast,Highway,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,3457.93,26,127.4,Referral,Yes,Yes,Urban
+Model 3,Yes,Urban Commuter,3,Home,Medium,Fast,0.45,Fast,Destination,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2411.06,17,76.5,None,No,No,Suburban
+Model S,Yes,Urban Commuter,3,Home,Medium,Fast,0.26,Fast,Urban,0.35,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,1188.33,14,36.4,Referral,Yes,Yes,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Urban,High,Fast,0.38,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4128.81,15,57,None,Yes,Yes,Urban
+Model 3,No,Urban Commuter,4,Supercharger - Urban,Low,Fast,0.42,Fast,Highway,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,2796.11,19,79.8,Loyalty Program,No,No,Urban
+Model X,Yes,Urban Commuter,1,Home,High,Moderate,0.44,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4898.41,15,66,Discount,No,No,Suburban
+Model X,No,Urban Commuter,2,Destination Charger,Medium,Moderate,0.3,Fast,Destination,0.35,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,1767.56,10,30,None,No,No,Urban
+Model S,Yes,Urban Commuter,2,Home,Low,Fast,0.47,Fast,Destination,0.25,Fast,None,Monthly Subscription,50 kWh/month,2663.02,22,103.4,Discount,No,No,Urban
+Model 3,Yes,Urban Commuter,1,Home,High,Fast,0.49,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,2515.98,22,107.8,None,No,No,Suburban
+Model X,Yes,Urban Commuter,1,Home,Low,Moderate,0.31,Fast,Destination,0.35,Fast,None,Pay-Per-Use,Unlimited,1043.51,19,58.9,None,No,No,Suburban
+Model 3,No,Urban Commuter,5,Supercharger - Urban,Low,Moderate,0.47,Fast,Urban,0.45,Fast,None,Monthly Subscription,50 kWh/month,2417.52,18,84.6,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,High,Moderate,0.27,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,Unlimited,1793.99,23,62.1,None,No,No,Rural
+Model X,No,Urban Commuter,5,Home,Low,Moderate,0.26,Fast,Highway,0.25,Fast,None,Monthly Subscription,50 kWh/month,1221.44,19,49.4,Referral,No,No,Suburban
+Model S,No,Urban Commuter,1,Supercharger - Urban,High,Fast,0.28,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1769.7,21,58.8,None,No,No,Suburban
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,Medium,Fast,0.26,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,1549.63,20,52,None,Yes,Yes,Suburban
+Model X,Yes,Urban Commuter,2,Supercharger - Highway,Low,Moderate,0.46,Fast,Urban,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3803.33,21,96.6,None,No,No,Rural
+Model S,Yes,Urban Commuter,1,Home,Medium,Moderate,0.26,Fast,Destination,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,638.49,17,44.2,Loyalty Program,Yes,Yes,Highway Region
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Moderate,0.32,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,3278.58,23,73.6,Discount,No,No,Urban
+Model Y,No,Urban Commuter,5,Destination Charger,Low,Moderate,0.28,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3922.98,21,58.8,Discount,Yes,No,Rural
+Model 3,No,Urban Commuter,4,Supercharger - Highway,High,Moderate,0.32,Fast,Highway,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,2663.26,16,51.2,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Highway,Low,Moderate,0.27,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4692.04,20,54,Referral,No,No,Suburban
+Model X,Yes,Urban Commuter,3,Destination Charger,Medium,Fast,0.42,Fast,Destination,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,3685.46,24,100.8,Referral,No,No,Highway Region
+Model 3,No,Urban Commuter,2,Home,Medium,Fast,0.28,Fast,Highway,0.35,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,3865.66,26,72.8,Loyalty Program,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Home,High,Fast,0.46,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,1386.2,11,50.6,Discount,No,No,Highway Region
+Model Y,No,Urban Commuter,5,Destination Charger,Low,Moderate,0.45,Fast,Highway,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,3997.83,24,108,Referral,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Moderate,0.25,Fast,Highway,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,4244.43,23,57.5,Loyalty Program,Yes,Yes,Rural
+Model Y,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Moderate,0.47,Fast,Destination,0.35,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,2125.7,18,84.6,Discount,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Highway,Medium,Fast,0.26,Fast,Highway,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,1460.13,21,54.6,Referral,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,3,Destination Charger,High,Moderate,0.31,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,2232.73,13,40.3,Referral,Yes,Yes,Urban
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Urban,Medium,Moderate,0.26,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,3828.24,19,49.4,Loyalty Program,No,No,Rural
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Highway,Medium,Fast,0.33,Fast,Urban,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,2379.38,26,85.8,Discount,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,1,Home,Low,Moderate,0.38,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,3814.93,21,79.8,Referral,No,No,Suburban
+Model S,No,Long-Distance Traveler,4,Home,Low,Fast,0.45,Fast,Destination,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1011.04,19,85.5,Loyalty Program,No,No,Suburban
+Model X,No,Long-Distance Traveler,1,Home,Medium,Fast,0.33,Fast,Destination,0.35,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4127.05,24,79.2,Referral,No,No,Rural
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Highway,Medium,Moderate,0.43,Fast,Highway,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1639.43,21,90.3,Discount,No,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,Low,Fast,0.3,Fast,Highway,0.45,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,1620.18,25,75,None,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,High,Moderate,0.44,Fast,Urban,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,3156.71,15,66,Referral,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,3,Destination Charger,High,Fast,0.31,Fast,Highway,0.45,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,815.53,17,52.7,Discount,Yes,Yes,Urban
+Model Y,Yes,Long-Distance Traveler,1,Home,High,Moderate,0.29,Fast,Urban,0.35,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,618.34,22,63.8,Referral,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Home,High,Fast,0.3,Fast,Destination,0.25,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,1674.63,16,48,None,No,No,Urban
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Moderate,0.3,Fast,Highway,0.25,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,2921.3,21,63,None,Yes,Yes,Highway Region
+Model X,Yes,Urban Commuter,2,Supercharger - Urban,High,Fast,0.38,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4584.27,14,53.2,Referral,Yes,Yes,Rural
+Model X,Yes,Long-Distance Traveler,3,Destination Charger,High,Fast,0.46,Fast,Highway,0.25,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,4308.96,12,55.2,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Urban Commuter,3,Supercharger - Highway,High,Fast,0.27,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,2707.01,23,62.1,Referral,No,No,Suburban
+Model X,No,Long-Distance Traveler,5,Destination Charger,Low,Moderate,0.43,Fast,Destination,0.35,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,666.73,21,90.3,Discount,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,3,Home,High,Moderate,0.41,Fast,Destination,0.35,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,2908.64,29,118.9,Loyalty Program,No,No,Highway Region
+Model 3,Yes,Urban Commuter,2,Destination Charger,High,Fast,0.47,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,3671.58,21,98.7,Discount,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Urban,High,Moderate,0.31,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,2026.24,17,52.7,Discount,Yes,No,Suburban
+Model Y,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Fast,0.36,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,999.78,18,64.8,Loyalty Program,Yes,Yes,Urban
+Model Y,No,Urban Commuter,6,Home,Low,Moderate,0.48,Fast,Destination,0.45,Fast,None,Monthly Subscription,50 kWh/month,1753.56,15,72,None,No,No,Rural
+Model Y,Yes,Urban Commuter,3,Supercharger - Urban,Low,Fast,0.41,Fast,Destination,0.35,Fast,None,Unlimited Fast-Charging,Unlimited,3972.15,17,69.7,Discount,No,No,Highway Region
+Model 3,No,Long-Distance Traveler,3,Supercharger - Urban,Low,Moderate,0.35,Fast,Highway,0.25,Fast,None,Unlimited Fast-Charging,50 kWh/month,2080.6,22,77,Referral,Yes,Yes,Urban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Fast,0.28,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,4153.92,17,47.6,None,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,2,Destination Charger,High,Fast,0.32,Fast,Highway,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,1937.85,18,57.6,None,No,No,Urban
+Model 3,No,Urban Commuter,4,Home,Medium,Fast,0.4,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1236,20,80,Loyalty Program,No,No,Rural
+Model Y,Yes,Urban Commuter,1,Home,Low,Fast,0.43,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,2461.32,17,73.1,Referral,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,3,Home,High,Moderate,0.28,Fast,Urban,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,2535.24,26,72.8,Referral,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,3,Home,Low,Fast,0.4,Fast,Highway,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,572.49,21,84,None,Yes,Yes,Rural
+Model Y,Yes,Long-Distance Traveler,2,Home,Medium,Moderate,0.39,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1026.7,22,85.8,Discount,Yes,Yes,Urban
+Model Y,No,Long-Distance Traveler,4,Supercharger - Urban,Medium,Moderate,0.38,Fast,Highway,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,1332.17,15,57,Discount,No,No,Urban
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Highway,Medium,Fast,0.42,Fast,Urban,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,1011.14,11,46.2,Referral,No,No,Rural
+Model Y,Yes,Urban Commuter,1,Home,Low,Moderate,0.46,Fast,Urban,0.35,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,2036.87,18,82.8,None,No,No,Suburban
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,High,Moderate,0.33,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Up to 200 kWh,4840.8,28,92.4,None,Yes,Yes,Highway Region
+Model Y,Yes,Urban Commuter,2,Supercharger - Highway,High,Moderate,0.47,Fast,Urban,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,2791.5,32,150.4,None,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Urban,Medium,Fast,0.29,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,3324,17,49.3,Loyalty Program,Yes,Yes,Suburban
+Model Y,Yes,Urban Commuter,3,Home,High,Moderate,0.29,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,2103.74,26,75.4,Referral,Yes,Yes,Highway Region
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Moderate,0.32,Fast,Highway,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,1955.69,28,89.6,Referral,No,No,Urban
+Model S,No,Urban Commuter,1,Home,Low,Fast,0.28,Fast,Urban,0.25,Fast,None,Monthly Subscription,Up to 200 kWh,604.16,24,67.2,Discount,No,No,Suburban
+Model Y,Yes,Urban Commuter,3,Supercharger - Urban,Medium,Fast,0.31,Fast,Destination,0.45,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2751.5,16,49.6,Discount,Yes,Yes,Urban
+Model S,Yes,Urban Commuter,1,Supercharger - Highway,Low,Moderate,0.28,Fast,Destination,0.45,Fast,Lounge Access,Monthly Subscription,50 kWh/month,2676.24,28,78.4,Referral,Yes,No,Highway Region
+Model 3,No,Long-Distance Traveler,5,Home,Medium,Fast,0.46,Fast,Destination,0.35,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,1210.24,21,96.6,Referral,No,No,Suburban
+Model Y,Yes,Urban Commuter,2,Destination Charger,High,Moderate,0.28,Fast,Highway,0.35,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,3939.46,19,53.2,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Moderate,0.44,Fast,Highway,0.45,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2717.03,23,101.2,Referral,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,2,Destination Charger,Medium,Moderate,0.26,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2025.47,20,52,Discount,No,No,Suburban
+Model X,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Fast,0.49,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1161.09,22,107.8,Referral,No,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Moderate,0.43,Fast,Urban,0.35,Fast,None,Pay-Per-Use,50 kWh/month,2984.72,17,73.1,Loyalty Program,Yes,Yes,Rural
+Model 3,No,Long-Distance Traveler,3,Home,High,Fast,0.25,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,3887.68,25,62.5,Loyalty Program,Yes,Yes,Urban
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,Low,Fast,0.44,Fast,Urban,0.45,Fast,None,Monthly Subscription,50 kWh/month,1769,28,123.2,None,No,No,Highway Region
+Model X,Yes,Urban Commuter,1,Supercharger - Urban,High,Moderate,0.38,Fast,Highway,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,1484.57,24,91.2,Referral,Yes,Yes,Suburban
+Model Y,No,Long-Distance Traveler,4,Home,Low,Fast,0.44,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,2848.71,19,83.6,Discount,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Home,Medium,Fast,0.38,Fast,Highway,0.35,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,1199.04,16,60.8,Referral,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Supercharger - Highway,High,Fast,0.41,Fast,Destination,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,3499.76,17,69.7,Referral,No,No,Urban
+Model S,Yes,Urban Commuter,2,Home,High,Fast,0.45,Fast,Urban,0.35,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,3224.05,20,90,None,No,No,Highway Region
+Model 3,No,Long-Distance Traveler,5,Supercharger - Highway,High,Fast,0.35,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,Unlimited,891.87,18,63,Discount,No,No,Urban
+Model S,Yes,Urban Commuter,3,Home,Medium,Moderate,0.25,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,664.34,27,67.5,Referral,Yes,No,Urban
+Model 3,Yes,Long-Distance Traveler,3,Destination Charger,Low,Fast,0.46,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,3291.3,21,96.6,Discount,No,No,Suburban
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,Low,Moderate,0.35,Fast,Destination,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,1824.32,20,70,Referral,Yes,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,High,Moderate,0.37,Fast,Urban,0.45,Fast,App Navigation Integration,Pay-Per-Use,Up to 200 kWh,889.01,23,85.1,None,No,No,Highway Region
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,Medium,Moderate,0.25,Fast,Destination,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,3917.43,23,57.5,Discount,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,2,Destination Charger,Medium,Moderate,0.37,Fast,Destination,0.35,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,1913.2,20,74,Referral,Yes,Yes,Rural
+Model S,No,Urban Commuter,6,Supercharger - Highway,Medium,Moderate,0.5,Fast,Highway,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,2568.2,19,95,Loyalty Program,No,No,Suburban
+Model Y,Yes,Urban Commuter,1,Home,Medium,Moderate,0.32,Fast,Urban,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1565.66,17,54.4,Discount,Yes,No,Urban
+Model X,Yes,Urban Commuter,1,Home,Medium,Fast,0.35,Fast,Urban,0.25,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,3322.93,19,66.5,None,Yes,Yes,Rural
+Model S,No,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.42,Fast,Highway,0.45,Fast,None,Pay-Per-Use,50 kWh/month,1856.7,16,67.2,Loyalty Program,No,No,Suburban
+Model S,No,Urban Commuter,1,Destination Charger,Low,Fast,0.45,Fast,Destination,0.25,Fast,None,Unlimited Fast-Charging,Unlimited,4856.09,12,54,Discount,Yes,Yes,Urban
+Model X,Yes,Urban Commuter,1,Home,Low,Moderate,0.35,Fast,Urban,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,3663.26,23,80.5,Discount,Yes,No,Suburban
+Model S,Yes,Urban Commuter,3,Supercharger - Urban,High,Fast,0.33,Fast,Destination,0.45,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,1115.25,23,75.9,Discount,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,3,Home,Medium,Fast,0.48,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,2375.13,30,144,Discount,No,No,Urban
+Model X,No,Long-Distance Traveler,2,Supercharger - Urban,High,Fast,0.42,Fast,Destination,0.35,Fast,Lounge Access,Unlimited Fast-Charging,50 kWh/month,2234.39,13,54.6,Referral,Yes,No,Highway Region
+Model S,No,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.28,Fast,Urban,0.25,Fast,None,Monthly Subscription,Unlimited,2904.11,16,44.8,Referral,No,No,Urban
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Urban,Low,Fast,0.27,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4288.69,8,21.6,Discount,No,No,Highway Region
+Model Y,No,Long-Distance Traveler,5,Supercharger - Urban,High,Moderate,0.37,Fast,Destination,0.25,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,3125.4,16,59.2,None,Yes,No,Rural
+Model 3,Yes,Urban Commuter,1,Supercharger - Urban,Low,Fast,0.31,Fast,Urban,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,777.01,26,80.6,Referral,No,No,Highway Region
+Model 3,Yes,Urban Commuter,3,Supercharger - Urban,Medium,Moderate,0.31,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,3449.37,14,43.4,Discount,No,No,Suburban
+Model Y,Yes,Urban Commuter,2,Home,Medium,Moderate,0.47,Fast,Destination,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,537.19,17,79.9,Discount,No,No,Urban
+Model Y,No,Urban Commuter,2,Supercharger - Urban,Medium,Moderate,0.27,Fast,Destination,0.35,Fast,None,Pay-Per-Use,Unlimited,4009.82,18,48.6,None,No,No,Suburban
+Model Y,Yes,Urban Commuter,3,Home,Low,Fast,0.43,Fast,Highway,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,3499.86,18,77.4,None,Yes,Yes,Highway Region
+Model Y,No,Long-Distance Traveler,6,Supercharger - Urban,Medium,Fast,0.32,Fast,Urban,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,1889.54,13,41.6,None,No,No,Urban
+Model 3,No,Long-Distance Traveler,7,Supercharger - Highway,Low,Moderate,0.44,Fast,Destination,0.25,Fast,None,Monthly Subscription,Up to 200 kWh,1815.99,17,74.8,Loyalty Program,No,No,Highway Region
+Model S,No,Long-Distance Traveler,3,Destination Charger,High,Fast,0.43,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4092.23,16,68.8,Discount,Yes,Yes,Rural
+Model Y,Yes,Long-Distance Traveler,3,Supercharger - Urban,Medium,Moderate,0.25,Fast,Highway,0.35,Fast,None,Monthly Subscription,Up to 200 kWh,4025.02,30,75,None,Yes,Yes,Rural
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,Medium,Moderate,0.38,Fast,Destination,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,2085.36,18,68.4,Discount,No,No,Rural
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,Medium,Fast,0.28,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,1845.26,25,70,Referral,No,No,Highway Region
+Model Y,Yes,Urban Commuter,1,Supercharger - Urban,High,Fast,0.47,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,3019.21,23,108.1,Discount,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Urban,Medium,Fast,0.47,Fast,Urban,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,537.65,26,122.2,Discount,No,No,Rural
+Model 3,No,Urban Commuter,6,Supercharger - Highway,Low,Moderate,0.35,Fast,Highway,0.45,Fast,Lounge Access,Monthly Subscription,50 kWh/month,872,24,84,Loyalty Program,No,No,Highway Region
+Model S,Yes,Long-Distance Traveler,2,Destination Charger,Low,Moderate,0.36,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,1067.76,20,72,Referral,No,No,Suburban
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,Medium,Fast,0.33,Fast,Destination,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1334.35,21,69.3,Referral,Yes,Yes,Highway Region
+Model S,Yes,Urban Commuter,1,Destination Charger,Medium,Moderate,0.43,Fast,Highway,0.35,Fast,Lounge Access,Monthly Subscription,50 kWh/month,2804.08,24,103.2,Loyalty Program,Yes,Yes,Suburban
+Model S,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Fast,0.34,Fast,Destination,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,4965.09,22,74.8,None,No,No,Rural
+Model S,Yes,Urban Commuter,2,Home,High,Moderate,0.32,Fast,Destination,0.25,Fast,None,Pay-Per-Use,50 kWh/month,3436.76,25,80,None,No,No,Highway Region
+Model X,Yes,Urban Commuter,1,Supercharger - Urban,High,Fast,0.36,Fast,Urban,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,775.84,20,72,Discount,No,No,Rural
+Model X,No,Long-Distance Traveler,6,Destination Charger,Medium,Fast,0.27,Fast,Destination,0.25,Fast,Lounge Access,Monthly Subscription,Unlimited,2865.11,23,62.1,Loyalty Program,No,No,Urban
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,High,Moderate,0.44,Fast,Highway,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,2734.9,23,101.2,None,No,No,Highway Region
+Model Y,No,Long-Distance Traveler,2,Supercharger - Urban,High,Fast,0.25,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,1148.76,24,60,Referral,Yes,No,Highway Region
+Model 3,No,Urban Commuter,6,Supercharger - Highway,Low,Fast,0.41,Fast,Destination,0.35,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,4641.23,17,69.7,Loyalty Program,No,No,Rural
+Model 3,Yes,Urban Commuter,2,Supercharger - Highway,High,Moderate,0.3,Fast,Urban,0.45,Fast,None,Pay-Per-Use,Up to 200 kWh,2483.44,9,27,None,No,No,Rural
+Model Y,No,Urban Commuter,5,Supercharger - Highway,Low,Fast,0.31,Fast,Highway,0.45,Fast,None,Pay-Per-Use,50 kWh/month,4975.52,23,71.3,Referral,Yes,No,Rural
+Model 3,Yes,Urban Commuter,3,Supercharger - Urban,Low,Moderate,0.41,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,Up to 200 kWh,2390.33,17,69.7,Loyalty Program,No,No,Urban
+Model Y,No,Urban Commuter,4,Supercharger - Highway,High,Fast,0.5,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,3235.81,20,100,Discount,No,No,Urban
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,Low,Moderate,0.44,Fast,Urban,0.25,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,971.43,17,74.8,Discount,No,No,Rural
+Model Y,No,Urban Commuter,1,Supercharger - Urban,Medium,Fast,0.31,Fast,Urban,0.35,Fast,None,Monthly Subscription,50 kWh/month,2544.03,24,74.4,Referral,Yes,Yes,Highway Region
+Model S,No,Urban Commuter,1,Supercharger - Highway,Medium,Fast,0.29,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,1574.45,19,55.1,None,Yes,No,Highway Region
+Model Y,No,Long-Distance Traveler,1,Supercharger - Urban,High,Fast,0.47,Fast,Urban,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,4260.04,17,79.9,None,No,No,Rural
+Model 3,No,Long-Distance Traveler,6,Destination Charger,Medium,Fast,0.36,Fast,Destination,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,4027.64,17,61.2,Loyalty Program,No,No,Suburban
+Model Y,Yes,Urban Commuter,1,Destination Charger,Low,Moderate,0.28,Fast,Destination,0.45,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,4208.81,22,61.6,Referral,No,No,Urban
+Model S,Yes,Urban Commuter,3,Destination Charger,Medium,Moderate,0.47,Fast,Highway,0.25,Fast,None,Monthly Subscription,50 kWh/month,3756.24,26,122.2,None,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Highway,High,Moderate,0.45,Fast,Urban,0.45,Fast,App Navigation Integration,Monthly Subscription,Unlimited,4247.07,19,85.5,Discount,No,No,Suburban
+Model Y,Yes,Urban Commuter,2,Home,High,Moderate,0.5,Fast,Urban,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,1403.73,23,115,Referral,Yes,No,Rural
+Model 3,Yes,Urban Commuter,3,Home,Low,Moderate,0.48,Fast,Highway,0.35,Fast,None,Pay-Per-Use,Unlimited,2534.2,15,72,Discount,No,No,Highway Region
+Model X,Yes,Long-Distance Traveler,3,Supercharger - Highway,High,Moderate,0.46,Fast,Urban,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,3613.31,16,73.6,Referral,Yes,Yes,Highway Region
+Model X,No,Urban Commuter,2,Home,Medium,Moderate,0.26,Fast,Highway,0.35,Fast,Lounge Access,Monthly Subscription,Unlimited,3368.27,23,59.8,Loyalty Program,No,No,Urban
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,High,Fast,0.28,Fast,Destination,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,3723.6,19,53.2,None,Yes,No,Suburban
+Model X,No,Long-Distance Traveler,2,Home,Low,Fast,0.39,Fast,Highway,0.35,Fast,None,Monthly Subscription,Unlimited,1509.16,30,117,None,No,No,Highway Region
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,High,Fast,0.38,Fast,Urban,0.25,Fast,None,Monthly Subscription,50 kWh/month,942.96,22,83.6,None,Yes,Yes,Urban
+Model Y,No,Urban Commuter,3,Supercharger - Highway,Medium,Fast,0.36,Fast,Highway,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,4625.63,15,54,Discount,No,No,Highway Region
+Model S,No,Long-Distance Traveler,3,Supercharger - Urban,Low,Moderate,0.35,Fast,Destination,0.35,Fast,Nearby Amenities,Monthly Subscription,Unlimited,3020.77,20,70,None,Yes,Yes,Highway Region
+Model 3,Yes,Urban Commuter,1,Destination Charger,Medium,Moderate,0.36,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,1192.22,17,61.2,Referral,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,Low,Moderate,0.39,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,4070.46,16,62.4,Discount,Yes,No,Urban
+Model Y,No,Urban Commuter,2,Supercharger - Urban,High,Fast,0.25,Fast,Destination,0.25,Fast,App Navigation Integration,Monthly Subscription,Unlimited,4617.18,30,75,Loyalty Program,No,No,Suburban
+Model 3,Yes,Urban Commuter,3,Home,Low,Moderate,0.32,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,Unlimited,1263.04,15,48,Discount,No,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Home,Low,Fast,0.38,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,4178.36,23,87.4,Loyalty Program,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,3,Supercharger - Urban,High,Moderate,0.43,Fast,Urban,0.35,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,4699.51,14,60.2,Discount,No,No,Highway Region
+Model S,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Moderate,0.29,Fast,Destination,0.45,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,4722.63,22,63.8,None,No,No,Suburban
+Model 3,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Moderate,0.39,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,4613.7,18,70.2,Loyalty Program,No,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,3,Home,Low,Moderate,0.43,Fast,Highway,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,2958.89,16,68.8,None,No,No,Urban
+Model 3,Yes,Urban Commuter,2,Supercharger - Urban,High,Fast,0.36,Fast,Destination,0.35,Fast,None,Pay-Per-Use,Unlimited,2102.95,31,111.6,Discount,No,No,Urban
+Model S,Yes,Urban Commuter,3,Home,Low,Fast,0.26,Fast,Highway,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,532.73,24,62.4,Loyalty Program,Yes,Yes,Urban
+Model Y,No,Urban Commuter,6,Supercharger - Urban,High,Moderate,0.36,Fast,Highway,0.35,Fast,Lounge Access,Pay-Per-Use,Unlimited,774.11,21,75.6,Referral,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,1,Home,High,Fast,0.32,Fast,Urban,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,2429.78,24,76.8,Referral,Yes,Yes,Suburban
+Model X,No,Long-Distance Traveler,2,Destination Charger,Medium,Moderate,0.48,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,2296.97,19,91.2,Discount,No,No,Rural
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Moderate,0.28,Fast,Urban,0.35,Fast,None,Unlimited Fast-Charging,Up to 200 kWh,1331.21,20,56,Loyalty Program,Yes,Yes,Rural
+Model 3,Yes,Long-Distance Traveler,1,Home,Medium,Moderate,0.41,Fast,Urban,0.45,Fast,Nearby Amenities,Pay-Per-Use,50 kWh/month,2279.66,13,53.3,Referral,No,No,Urban
+Model Y,Yes,Urban Commuter,2,Destination Charger,Low,Moderate,0.26,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,1285.93,22,57.2,None,Yes,Yes,Rural
+Model X,Yes,Long-Distance Traveler,1,Home,High,Fast,0.36,Fast,Destination,0.45,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,4319.56,20,72,None,No,No,Highway Region
+Model S,Yes,Urban Commuter,1,Home,Low,Moderate,0.39,Fast,Urban,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,1841.88,13,50.7,Discount,No,No,Suburban
+Model Y,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.32,Fast,Urban,0.45,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,3193.54,17,54.4,None,No,No,Rural
+Model Y,Yes,Urban Commuter,2,Home,Medium,Fast,0.36,Fast,Urban,0.25,Fast,Lounge Access,Monthly Subscription,50 kWh/month,2762.79,24,86.4,None,Yes,No,Rural
+Model Y,Yes,Urban Commuter,2,Home,Medium,Moderate,0.29,Fast,Destination,0.25,Fast,Lounge Access,Unlimited Fast-Charging,Up to 200 kWh,733.47,21,60.9,None,No,No,Suburban
+Model X,Yes,Urban Commuter,3,Supercharger - Highway,Low,Fast,0.33,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,50 kWh/month,4740.05,19,62.7,Referral,No,No,Rural
+Model X,Yes,Long-Distance Traveler,3,Destination Charger,Medium,Moderate,0.41,Fast,Destination,0.25,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,2872.52,22,90.2,Loyalty Program,No,No,Suburban
+Model 3,Yes,Urban Commuter,1,Destination Charger,Medium,Moderate,0.33,Fast,Highway,0.35,Fast,None,Pay-Per-Use,50 kWh/month,1962.76,25,82.5,Discount,Yes,Yes,Highway Region
+Model Y,No,Urban Commuter,3,Supercharger - Urban,Medium,Moderate,0.47,Fast,Highway,0.45,Fast,App Navigation Integration,Pay-Per-Use,50 kWh/month,1211.57,16,75.2,Loyalty Program,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,1,Home,High,Moderate,0.41,Fast,Highway,0.45,Fast,Lounge Access,Pay-Per-Use,Unlimited,2023.37,25,102.5,Loyalty Program,No,No,Highway Region
+Model S,Yes,Urban Commuter,3,Supercharger - Highway,High,Moderate,0.36,Fast,Destination,0.45,Fast,App Navigation Integration,Unlimited Fast-Charging,Up to 200 kWh,592.3,23,82.8,Loyalty Program,Yes,Yes,Urban
+Model S,No,Long-Distance Traveler,1,Home,Low,Moderate,0.26,Fast,Urban,0.25,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2136.01,25,65,Referral,Yes,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,2,Home,Low,Fast,0.37,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,2891.69,32,118.4,None,No,No,Rural
+Model Y,Yes,Urban Commuter,1,Supercharger - Urban,Medium,Moderate,0.44,Fast,Urban,0.45,Fast,Nearby Amenities,Monthly Subscription,Unlimited,4423.4,19,83.6,Discount,No,No,Urban
+Model Y,No,Urban Commuter,7,Home,High,Fast,0.32,Fast,Urban,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,50 kWh/month,3593.18,19,60.8,Loyalty Program,Yes,Yes,Urban
+Model S,Yes,Long-Distance Traveler,2,Supercharger - Highway,Medium,Fast,0.45,Fast,Urban,0.35,Fast,None,Pay-Per-Use,50 kWh/month,1002.12,21,94.5,None,No,No,Urban
+Model 3,Yes,Urban Commuter,1,Supercharger - Highway,Medium,Moderate,0.31,Fast,Destination,0.45,Fast,None,Pay-Per-Use,Unlimited,1164.86,22,68.2,Referral,Yes,No,Highway Region
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Urban,High,Fast,0.46,Fast,Highway,0.45,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,2426.56,23,105.8,Loyalty Program,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,2,Home,High,Moderate,0.27,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,Up to 200 kWh,1380.68,15,40.5,None,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,2,Supercharger - Highway,High,Fast,0.47,Fast,Highway,0.25,Fast,App Navigation Integration,Monthly Subscription,Unlimited,625.32,25,117.5,Referral,Yes,Yes,Highway Region
+Model Y,Yes,Urban Commuter,2,Home,Low,Moderate,0.37,Fast,Destination,0.45,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,4122.57,20,74,None,No,No,Urban
+Model 3,Yes,Long-Distance Traveler,1,Home,Low,Fast,0.32,Fast,Destination,0.35,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,587.85,20,64,Discount,No,No,Urban
+Model 3,Yes,Urban Commuter,1,Home,Medium,Fast,0.32,Fast,Urban,0.45,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4238.1,22,70.4,None,No,No,Rural
+Model 3,No,Urban Commuter,1,Supercharger - Urban,Low,Moderate,0.36,Fast,Destination,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,1148.47,24,86.4,None,Yes,Yes,Urban
+Model S,No,Urban Commuter,6,Home,High,Fast,0.5,Fast,Highway,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,4886.05,17,85,Discount,Yes,Yes,Highway Region
+Model Y,Yes,Urban Commuter,1,Supercharger - Highway,High,Moderate,0.31,Fast,Urban,0.35,Fast,None,Monthly Subscription,Up to 200 kWh,3217.43,15,46.5,Discount,No,No,Rural
+Model Y,Yes,Long-Distance Traveler,2,Home,Low,Moderate,0.28,Fast,Urban,0.25,Fast,Nearby Amenities,Monthly Subscription,Up to 200 kWh,3807.42,19,53.2,None,Yes,Yes,Rural
+Model Y,Yes,Urban Commuter,2,Supercharger - Highway,Medium,Moderate,0.4,Fast,Highway,0.45,Fast,App Navigation Integration,Monthly Subscription,50 kWh/month,997.18,17,68,Discount,No,No,Highway Region
+Model Y,Yes,Long-Distance Traveler,2,Home,Medium,Moderate,0.37,Fast,Urban,0.45,Fast,None,Monthly Subscription,Up to 200 kWh,4379.47,22,81.4,None,Yes,Yes,Urban
+Model 3,Yes,Long-Distance Traveler,1,Supercharger - Highway,Low,Moderate,0.38,Fast,Urban,0.45,Fast,App Navigation Integration,Monthly Subscription,Up to 200 kWh,4276.37,11,41.8,Loyalty Program,No,No,Urban
+Model Y,Yes,Urban Commuter,2,Supercharger - Highway,Medium,Fast,0.42,Fast,Highway,0.25,Fast,Nearby Amenities,Pay-Per-Use,Unlimited,3438.47,22,92.4,None,Yes,No,Suburban
+Model Y,No,Long-Distance Traveler,3,Home,Medium,Fast,0.32,Fast,Urban,0.35,Fast,Lounge Access,Pay-Per-Use,50 kWh/month,2760.24,19,60.8,Referral,No,No,Urban
+Model Y,Yes,Long-Distance Traveler,3,Home,Medium,Fast,0.48,Fast,Urban,0.25,Fast,None,Pay-Per-Use,Up to 200 kWh,3746.7,16,76.8,Discount,No,No,Suburban
+Model 3,Yes,Urban Commuter,3,Supercharger - Highway,High,Moderate,0.36,Fast,Highway,0.45,Fast,None,Monthly Subscription,Unlimited,526.68,21,75.6,Loyalty Program,Yes,Yes,Rural
+Model 3,Yes,Long-Distance Traveler,2,Destination Charger,High,Fast,0.28,Fast,Destination,0.25,Fast,App Navigation Integration,Unlimited Fast-Charging,Unlimited,3165.98,33,92.4,Discount,No,No,Rural
+Model S,Yes,Long-Distance Traveler,3,Supercharger - Urban,Low,Fast,0.44,Fast,Highway,0.35,Fast,App Navigation Integration,Pay-Per-Use,Unlimited,4313.33,21,92.4,Discount,No,No,Rural
+Model Y,No,Long-Distance Traveler,7,Destination Charger,High,Fast,0.41,Fast,Urban,0.25,Fast,Lounge Access,Pay-Per-Use,Unlimited,2106.05,20,82,Discount,Yes,Yes,Suburban
+Model X,No,Long-Distance Traveler,5,Destination Charger,Medium,Fast,0.33,Fast,Highway,0.45,Fast,None,Monthly Subscription,Unlimited,987.3,16,52.8,Referral,No,No,Highway Region
+Model 3,No,Urban Commuter,3,Home,High,Fast,0.41,Fast,Urban,0.35,Fast,Nearby Amenities,Unlimited Fast-Charging,Unlimited,2393.95,18,73.8,Referral,No,No,Highway Region
+Model X,Yes,Long-Distance Traveler,1,Supercharger - Urban,Low,Moderate,0.3,Fast,Urban,0.25,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,3771.97,17,51,None,Yes,No,Rural
+Model X,Yes,Long-Distance Traveler,1,Destination Charger,High,Moderate,0.36,Fast,Highway,0.25,Fast,None,Pay-Per-Use,50 kWh/month,982.86,15,54,Referral,Yes,Yes,Suburban
+Model 3,Yes,Long-Distance Traveler,2,Home,Medium,Fast,0.47,Fast,Urban,0.35,Fast,None,Unlimited Fast-Charging,50 kWh/month,1427.22,29,136.3,Discount,No,No,Suburban
+Model S,Yes,Long-Distance Traveler,1,Destination Charger,Medium,Moderate,0.28,Fast,Destination,0.35,Fast,None,Monthly Subscription,Unlimited,1163.98,15,42,Loyalty Program,No,No,Rural
+Model X,Yes,Urban Commuter,3,Destination Charger,Low,Moderate,0.35,Fast,Urban,0.45,Fast,Lounge Access,Unlimited Fast-Charging,Unlimited,4086.26,25,87.5,Loyalty Program,No,No,Urban
+Model 3,No,Long-Distance Traveler,3,Home,High,Fast,0.46,Fast,Highway,0.35,Fast,Nearby Amenities,Monthly Subscription,50 kWh/month,783.02,19,87.4,Loyalty Program,Yes,Yes,Rural
+Model Y,Yes,Urban Commuter,1,Home,High,Fast,0.49,Fast,Destination,0.45,Fast,Nearby Amenities,Pay-Per-Use,Up to 200 kWh,3589.64,18,88.2,Discount,No,No,Suburban
