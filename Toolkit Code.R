@@ -1,9 +1,9 @@
-# 1. Package Management ----------------------------------------------------
+# 1. Required Package 
 required_packages <- c("tidyverse", "cluster", "factoextra", "ggdendro", "patchwork", "mice", "stringr")
 new_packages <- required_packages[!(required_packages %in% installed.packages()[,"Package"])]
 if(length(new_packages)) install.packages(new_packages)
 
-# 2. Library Loading ------------------------------------------------------
+# 2. Library Loading 
 library(tidyverse)
 library(cluster)
 library(factoextra)
@@ -12,7 +12,7 @@ library(patchwork)
 library(stringr)
 library(mice)
 
-# 3. Visual Settings ------------------------------------------------------
+# 3. Visual Settings 
 color_palette <- list(
   fast = "#88B04B", 
   moderate = "#F7DC6F",
@@ -24,7 +24,7 @@ color_palette <- list(
 )
 theme_set(theme_minimal(base_size = 12))
 
-# 4. Data Loading and Preparation ------------------------------------------
+# 4. Data Loading and Preparation 
 # Import dataset
 df <- read_csv(file.choose(), show_col_types = FALSE)
 
@@ -41,7 +41,7 @@ df <- df %>%
   mutate(across(c(LocationPreference, Segment, SpeedPreference, HomeChargerAvailable, UserLocation, 
                   ChosenStationSpeed, ConjointSpeed, PlanType, CampaignType), as.factor))
 
-# 5. Cluster Analysis -----------------------------------------------------
+# 5. Cluster Analysis 
 # Prepare clustering variables
 cluster_vars <- c("ChargingFrequency", "LocationPreference", "Segment", 
                   "SpeedPreference", "HomeChargerAvailable", "UserLocation")
@@ -87,7 +87,7 @@ print(dendro_plot)
 optimal_k <- 4  # Based on your previous output
 df$Cluster_Hierarchical <- as.factor(cutree(hc, k = optimal_k))
 
-# 6. Cluster Profiling ----------------------------------------------------
+# 6. Cluster Profiling 
 cluster_profile <- df %>% 
   group_by(Cluster_Hierarchical) %>% 
   summarise(
@@ -101,7 +101,7 @@ cluster_profile <- df %>%
     .groups = 'drop'
   )
 
-# 7. Choice Model Analysis ------------------------------------------------
+# 7. Choice Model Analysis 
 if(all(c("ChosenStationSpeed", "ChosenStationPrice") %in% names(df))) {
   choice_plot <- df %>%
     count(ChosenStationSpeed, ChosenStationPrice) %>%
@@ -123,7 +123,7 @@ if(all(c("ChosenStationSpeed", "ChosenStationPrice") %in% names(df))) {
   message("\nSkipping Choice Model: Required columns not found")
 }
 
-# 8. Conjoint Analysis ----------------------------------------------------
+# 8. Conjoint Analysis 
 if(all(c("ConjointSpeed", "ConjointPrice") %in% names(df))) {
   # Calculate utility scores
   conjoint_utility <- df %>%
@@ -194,7 +194,7 @@ if(all(c("ConjointSpeed", "ConjointPrice") %in% names(df))) {
   cat("\nSkipping Conjoint Analysis: Required columns (ConjointSpeed, ConjointPrice) not found\n")
 }
 
-# 9. Market Response Modeling ---------------------------------------------
+# 9. Market Response Modeling 
 response_model <- lm(StationUsage ~ AdSpend + ChargingFrequency, data = df)
 model_summary <- summary(response_model)
 
@@ -210,7 +210,7 @@ response_plot <- ggplot(df, aes(x = AdSpend, y = StationUsage)) +
   theme_minimal()
 print(response_plot)
 
-# 10. Results Reporting ----------------------------------------------------
+# 10. Results Reporting 
 cat("\n=== FINAL RESULTS ===\n")
 
 # Cluster Summary
@@ -230,3 +230,24 @@ if(model_summary$coefficients["AdSpend", "Pr(>|t|)"] > 0.05) {
       round(model_summary$coefficients["AdSpend", "Pr(>|t|)"], 3), 
       "). Consider additional predictors or nonlinear terms.\n")
 }
+
+# 11. Formulas Summary 
+cat("\n=== FORMULAS SUMMARY ===\n")
+
+# Step 1: Euclidean Distance Formula (Cluster Analysis)
+cat("\nStep 1: Euclidean Distance Formula (Cluster Analysis)\n")
+cat("d_euc(x,y) = \\sqrt{\\sum_{i=1}^{n} (x_i - y_i)^2}\n")
+
+# Step 2: Utility Function (Choice Model)
+cat("\nStep 2: Utility Function (Choice Model)\n")
+cat("U(x) = \\beta_0 + \\beta_1 x_1 + \\beta_2 x_2\n")
+
+# Step 3: Conjoint Estimation Formula (Conjoint Analysis)
+cat("\nStep 3: Conjoint Estimation Formula (Conjoint Analysis)\n")
+cat("R(P) = \\sum_{i=1}^{H} \\sum_{j=1}^{m} \\beta_j X_j\n")
+
+# Step 4: Market Response Regression Equation (Market Response Model)
+cat("\nStep 4: Market Response Regression Equation (Market Response Model)\n")
+cat("StationUsage = \\beta_0 + \\beta_1 AdSpend + \\beta_2 ChargingFrequency + \\epsilon\n")
+
+cat("\n=== END OF FORMULAS ===\n")
